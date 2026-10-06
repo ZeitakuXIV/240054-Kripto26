@@ -29,3 +29,4 @@
 4. Print Key
 5. Panggil decrypt function dengan result string dan key
 6. Print decrypted string
+![Hasil Run](image.png)
